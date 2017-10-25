@@ -5,3 +5,11 @@ We will be creating instructions for a card game.
 Obtain a deck of cards.
 You will need atleast 3 people to make the game fun, also take out all the jokers as they are irrelevant.
 First, shuffle the cards and give each player one card.
+Leave your first card face up, but do not leave your other cards face up.
+The goal of the game is to get a total of 21 or close to it, Aces can count as 1 or 11, face cards as 10.
+	If you want another card, say "Hit."
+	If you don't want another card, say "Pass."
+If you go over 21, you are out.
+Keep repeatintg this process until all final players have said "Pass."
+After everybody has said "Pass," reveal your cards to see who is closest to 21.
+The person closest to 21 is the winner!
