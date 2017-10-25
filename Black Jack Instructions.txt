@@ -1,0 +1,7 @@
+Ved Nigam- 18 October, 2017 3rd Period
+Psuedocode : BlackJack
+We will be creating instructions for a card game.
+
+Obtain a deck of cards.
+You will need atleast 3 people to make the game fun, also take out all the jokers as they are irrelevant.
+First, shuffle the cards and give each player one card.
